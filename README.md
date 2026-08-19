@@ -46,7 +46,7 @@
 ### Build & Run
 
 ```bash
-git clone https://github.com/YunusTAS13/linux-yardim.git
+git clone https://github.com/YunusTAS13/EasyLinux.git
 cd linux-yardim
 go build -o linux-yardim .
 ./linux-yardim
@@ -68,7 +68,7 @@ Or just run the launcher script:
 
 Found a bug or want a new feature? Open an issue at:
 
-- **Bug reports:** https://github.com/YunusTAS13/linux-yardim/issues
+- **Bug reports:** https://github.com/YunusTAS13/EasyLinux/issues
 
 > This project is developed and maintained by **Yunus Taş**. External contributors are not accepted at this time, but detailed bug reports, suggestions and translations are always welcome.
 
@@ -119,7 +119,7 @@ Copyright (C) 2026 **Yunus Taş**
 ### Derleme & Çalıştırma
 
 ```bash
-git clone https://github.com/YunusTAS13/linux-yardim.git
+git clone https://github.com/YunusTAS13/EasyLinux.git
 cd linux-yardim
 go build -o linux-yardim .
 ./linux-yardim
@@ -141,7 +141,7 @@ Veya başlatıcı betiği kullanın:
 
 Bir hata buldunuz veya yeni bir özellik mi istiyorsunuz? Issue açın:
 
-- **Hata raporları:** https://github.com/YunusTAS13/linux-yardim/issues
+- **Hata raporları:** https://github.com/YunusTAS13/EasyLinux/issues
 
 > Bu proje **Yunus Taş** tarafından geliştirilmekte ve bakımı yapılmaktadır. Şu anda harici katkıcı kabul edilmemektedir; ancak ayrıntılı hata raporları, öneriler ve çeviriler her zaman memnuniyetle karşılanır.
 
