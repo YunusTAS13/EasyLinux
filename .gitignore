@@ -1,0 +1,13 @@
+# Build artifacts
+/linux-yardim
+*.exe
+*.out
+
+# Editor / OS
+.DS_Store
+*.swp
+*~
+
+# Go
+/vendor/
+*.test

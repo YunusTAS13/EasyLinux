@@ -1,0 +1,7 @@
+[Details]
+ID = "tr.linux-yardim"
+Name = "Linux Yardım Merkezi"
+Version = "1.0.0"
+
+[Migrations]
+fyneDo = true
