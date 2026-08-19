@@ -82,7 +82,7 @@ func langIndex(code string) int {
 }
 
 func main() {
-	a := app.NewWithID("tr.linux-yardim")
+	a := app.NewWithID("tr.EasyLinux")
 	prefs := a.Preferences()
 	if l := prefs.String("lang"); l != "" {
 		setLang(l)

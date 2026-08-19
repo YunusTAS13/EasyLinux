@@ -23,7 +23,7 @@ func scorePath() string {
 	if err != nil {
 		dir = "."
 	}
-	return filepath.Join(dir, "linux-yardim", "skor.json")
+	return filepath.Join(dir, "EasyLinux", "skor.json")
 }
 
 func loadScore() scoreRec {

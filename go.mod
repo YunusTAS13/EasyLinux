@@ -1,4 +1,4 @@
-module linux-yardim
+module EasyLinux
 
 go 1.26.5
 

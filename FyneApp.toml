@@ -1,6 +1,6 @@
 [Details]
-ID = "tr.linux-yardim"
-Name = "Linux Yardım Merkezi"
+ID = "tr.EasyLinux"
+Name = "EasyLinux"
 Version = "1.0.0"
 
 [Migrations]

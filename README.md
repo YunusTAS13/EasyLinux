@@ -47,9 +47,9 @@
 
 ```bash
 git clone https://github.com/YunusTAS13/EasyLinux.git
-cd linux-yardim
-go build -o linux-yardim .
-./linux-yardim
+cd EasyLinux
+go build -o EasyLinux .
+./EasyLinux
 ```
 
 Or just run the launcher script:
@@ -62,7 +62,7 @@ Or just run the launcher script:
 
 - Read-only modules (Disk & Boot) are completely safe. For partition editing, use GParted and always back up first.
 - Admin operations open the polkit password dialog automatically.
-- The learning score is stored in `~/.config/linux-yardim/skor.json`.
+- The learning score is stored in `~/.config/EasyLinux/skor.json`.
 
 ### Reporting Issues / Contributing
 
@@ -120,9 +120,9 @@ Copyright (C) 2026 **Yunus Taş**
 
 ```bash
 git clone https://github.com/YunusTAS13/EasyLinux.git
-cd linux-yardim
-go build -o linux-yardim .
-./linux-yardim
+cd EasyLinux
+go build -o EasyLinux .
+./EasyLinux
 ```
 
 Veya başlatıcı betiği kullanın:
@@ -135,7 +135,7 @@ Veya başlatıcı betiği kullanın:
 
 - Yalnızca okuma yapan modüller (Disk & Önyükleme) tamamen güvenlidir. Bölüm düzenlemek için GParted kullanın ve önce yedek alın.
 - Yönetici işlemleri polkit parola penceresini otomatik açar.
-- Öğrenme skoru `~/.config/linux-yardim/skor.json` içinde saklanır.
+- Öğrenme skoru `~/.config/EasyLinux/skor.json` içinde saklanır.
 
 ### Sorun Bildirme / Katkı
 
